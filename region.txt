@@ -1,0 +1,25 @@
+# Hayakon
+
+djanhang_region = {
+	areas = {
+		east_djanhi_area
+		west_djanhi_area
+	}
+}
+
+########################################
+# EUROPE                               #
+########################################
+
+france_region = {
+	areas = {
+		brittany_area
+	}
+}
+
+#Sea Regions
+mediterrenean_region = {
+	areas = {
+		western_mediterrenean_area
+	}
+}
